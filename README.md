@@ -1,4 +1,4 @@
-# Casos-de-Coronavirus
+# CoronaCasos
 Consulta los casos, recuperados y muertes por causa del Coronavirus
 
 Bienvenido!
