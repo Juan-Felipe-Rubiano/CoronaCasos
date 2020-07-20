@@ -12,3 +12,5 @@ Para más información pueden contactarme por medio de un mensaje privado o por 
 Gracias por participar!
 Atte,
 Juan Felipe Rubiano
+
+P.S: También agradecería cualquier tipo de asesoría, ya que este es mi primer repositorio.
